@@ -1,0 +1,128 @@
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .container, .nav-link, .form-label, .form-control, .custom-btn {
+    opacity: 0;  
+    animation: fadeIn 2s ease-in-out forwards;
+  }
+
+  
+  .container {
+    animation-delay: 0s;  
+  }
+
+  .nav-link {
+    animation-delay: 0.5s;  
+  }
+
+  .form-label, .form-control {
+    animation-delay: 1s;  
+  }
+
+  .custom-btn {
+    animation-delay: 1.5s; 
+  }
+
+  
+  .container {
+    margin-top: 50px;
+    max-width: 600px;
+  }
+
+  .nav-link {
+    color: aliceblue !important;
+  }
+
+  
+  .Name, .Age, .Numberofpeople, .Date, .Time, .Additional {
+    margin-bottom: 15px;
+  }
+
+  
+  .custom-btn {
+    background-color: rgb(255, 195, 31);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .custom-btn:hover {
+    background-color: rgb(230, 173, 20);
+  }
+
+
+
+.Name {
+    color: rgb(253, 173, 0);
+    border: 0.5px solid #ffae00;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.Age {
+    color: rgb(253, 173, 0);
+    border: 0.5px solid #ffae00;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.Numberofpeople {
+    color: rgb(253, 173, 0);
+    border: 0.5px solid #ffae00;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.Date {
+    color: rgb(253, 173, 0);
+    border: 0.5px solid #ffae00;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.Time {
+    color: rgb(253, 173, 0);
+    border: 0.5px solid #ffae00;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.Additional {
+    margin-bottom: 2em;
+}
+
+.custom-btn {
+    background-color: #ffae00;
+    color: black;
+    border: 1px solid #ffae00;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-btn:hover {
+    background-color: #573b01;
+    color: aliceblue;
+}
+
+
+.container{
+    background-color: rgb(20, 20, 20);
+    padding: 2em;
+    border-width: 10px;
+}

@@ -1,0 +1,139 @@
+@font-face {
+    font-family: myFont;
+    src: url(/assets/fonts/bar.otf);
+
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Apply fade-in to all images and text elements */
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Optional: Add delay to images for staggered fade-in */
+.carousel-item, .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7 {
+    animation-delay: 1s;
+}
+
+.carousel-item::before{
+
+
+    content: "";
+   display: block;
+   position: absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   background: #000;
+   opacity: 0.7;
+   width: 100%;
+   }
+
+p{
+    font-size: large
+}
+
+h2{
+
+    position: relative;
+    left: 10%;
+    top: 3in;
+    font-weight: bolder;
+    font-family: myFont;
+}
+
+.logo{
+
+    position: relative;
+    left: 11in;
+    bottom:60px;
+}
+
+
+
+
+
+
+
+
+.pic1 {
+    position: relative;
+    left: 2in;
+    top: 5in;
+}
+
+.pic2 {
+    position: relative;
+    left: 8in;
+    top: -20px;
+}
+
+.pic3 {
+    position: relative;
+    left: 14in;
+    top: -520px;
+}
+
+.pic4 {
+    position: relative;
+    left: 1in;
+    top: -450px;
+}
+
+.pic5 {
+    position: relative;
+    left: 9in;
+    top: -410px; /
+}
+
+.pic6 {
+    position: relative;
+    left: 1in;
+    top: -1000px; 
+}
+
+.pic7 {
+    position: relative;
+    left: 12in;
+    top: -2100px; 
+}
+.Contacts {
+    margin-top: -500px; 
+}
+
+
+.Contacts{
+
+    position: relative;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: azure;
+    border: 1px;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 5rem;
+}
+
+body
+    {
+
+    overflow-x: hidden;
+
+    }
+
+.pic1 img, .pic2 img, .pic3 img, .pic4 img, .pic5 img, .pic6 img, .pic7 img 
+    {
+        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    }
+
+.pic1 img:hover, .pic2 img:hover, .pic3 img:hover, .pic4 img:hover, .pic5 img:hover, .pic6 img:hover, .pic7 img:hover 
+      {
+        transform: scale(1.05);
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); 
+      }

@@ -1,0 +1,26 @@
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  
+  .container, .nav-link, img {
+    opacity: 0; 
+    animation: fadeIn 2s ease-in-out forwards;
+  }
+
+  
+  .nav-link {
+    animation-delay: 0.5s;
+  }
+
+  img {
+    animation-delay: 1s; 
+    max-width: 90%;  
+    display: block;  
+    margin: 20px auto;  
+  }
