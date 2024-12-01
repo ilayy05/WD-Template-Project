@@ -70,9 +70,9 @@ such as Bootstrap to give coders or in our case artists an easier way to code an
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Booking System
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
