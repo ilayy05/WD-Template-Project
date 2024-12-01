@@ -61,7 +61,6 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
 
 The project focuses on creating a website for a specific product, the product that was assigned to me was a Bar. 
 The website was made in Visual Code using HTML with the help of External stylesheet tools such as CSS and preset code websites
