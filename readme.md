@@ -63,11 +63,9 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project focuses on creating a website for a specific product, the product that was assigned to me was a Bar. 
+The website was made in Visual Code using HTML with the help of External stylesheet tools such as CSS and preset code websites
+such as Bootstrap to give coders or in our case artists an easier way to code and design a website. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -81,6 +79,7 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://getbootstrap.com)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -121,4 +120,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bar Website | to give the customers the ease in booking a sit  | [](https://www.octopusmakati.com) |
