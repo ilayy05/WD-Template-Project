@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Octopus is a European-style superclub. It is the newest and the biggest nightclub in Poblacion Makati City. Boasting sleek, modern, and luxurious interiors, a state-of-the-art sound system, dazzling light displays, and top-notch DJs spinning great music all night.
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/90ae2608-a830-4ade-9b13-86c2e13efdbd/project/732fe004-d26b-4741-88d9-fde90d50c397.svg)](https://wakatime.com/badge/user/90ae2608-a830-4ade-9b13-86c2e13efdbd/project/732fe004-d26b-4741-88d9-fde90d50c397)
