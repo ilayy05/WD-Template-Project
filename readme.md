@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="pages/Welcome/assets/img/logo.jpg" alt="Nyebe" width="130" height="130">
+    <img src="pages/Welcome/assets/img/logo.jpg" alt="Octopus" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Ocotpus</h3>
@@ -24,7 +24,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=ilayy05/WD-Template-Project)
 
 ---
 
