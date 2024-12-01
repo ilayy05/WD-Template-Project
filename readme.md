@@ -120,4 +120,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Bar Website | to give the customers the ease in booking a sit  | [](https://www.octopusmakati.com) |
+| Bar Website | to give the customers the ease in booking a sit  | [(https://www.octopusmakati.com)] |
